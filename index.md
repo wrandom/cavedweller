@@ -26,7 +26,7 @@ Syntax highlighted code block
 [Link](url) and 
 
 ![Image]
-(https://github.com/wrandom/cavedweller/blob/master/cdlogo-1.png)
+(/wrandom/cavedweller/blob/master/cdlogo-1.png)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
